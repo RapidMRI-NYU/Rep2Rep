@@ -1,6 +1,6 @@
-# Rep2Rep
+# Rep2Rep — Educational Demo
 
-Official implementation of repetition-to-repetition learning for noise-adaptive self-supervised MRI denoising.
+Educational demonstration of Rep2Rep for self-supervised, noise-adaptive MRI denoising.
 
 ## Method
 
